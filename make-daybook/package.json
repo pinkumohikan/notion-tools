@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@notionhq/client": "2.2.13",
+    "ts-node": "10.9.1"
+  }
+}
