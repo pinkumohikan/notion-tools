@@ -19,13 +19,13 @@ const main = async () => {
         {
           property: "作成日時",
           date: {
-            on_or_after: `${firstDay.toFormat('yyyy-MM-dd 00:00:00')}`
+            on_or_after: `${firstDay.toFormat("yyyy-MM-dd")}T00:00:00`
           },
         },
         {
           property: "作成日時",
           date: {
-            before: `${finalDay.toFormat('yyyy-MM-dd 23:59:59')}`
+            before: `${finalDay.toFormat("yyyy-MM-dd")}T23:59:59`
           },
         },
       ],
