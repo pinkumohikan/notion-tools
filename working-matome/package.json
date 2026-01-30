@@ -3,7 +3,7 @@
     "@notionhq/client": "2.2.13",
     "install": "0.13.0",
     "luxon": "3.4.3",
-    "npm": "10.2.0",
+    "npm": "11.8.0",
     "ts-node": "10.9.1"
   },
   "devDependencies": {
