@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "@notionhq/client": "2.2.13",
-    "install": "0.13.0",
-    "luxon": "3.4.3",
-    "npm": "11.8.0",
-    "ts-node": "10.9.1"
+    "@notionhq/client": "5.9.0",
+    "luxon": "3.7.2",
+    "ts-node": "10.9.2"
   },
   "devDependencies": {
-    "@types/luxon": "3.3.2"
+    "@types/luxon": "3.7.1"
   }
 }
